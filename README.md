@@ -5,4 +5,4 @@ Try making branches and commits, opening issues and pull requests, and generally
 
 Cheet sheet: https://git-scm.com/cheat-sheet
 
-*Romeo and Juliet* by William Shakespeare and taken from https://www.gutenberg.org/cache/epub/1513/pg1513-images.html
+*Romeo and Juliet* by William Shakespeare and taken from [Project Gutenberg](https://www.gutenberg.org/cache/epub/1513/pg1513-images.html).
